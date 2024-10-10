@@ -4,7 +4,7 @@ A webscraper that utilizes the Selenium library to automate the scraping of ever
 ## Prerequisites
 
 - Python 3.x
-- Chrome and ChromeDriver
+- Chrome
 
 ## Usage
 
