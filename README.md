@@ -6,9 +6,10 @@ A webscraper that utilizes the Selenium library to automate the scraping of ever
 - Python 3.x
 - Chrome and ChromeDriver
 
-## Installation
+## Usage
 
 1. Clone the repository
 2. Create virtual environment (venv)
 3. Install dependencies using requirements.txt
 4. Run the script
+5. Output written to txt file locally as "scraperresults.txt"
