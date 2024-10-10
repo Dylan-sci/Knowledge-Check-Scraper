@@ -1,5 +1,5 @@
 # Knowledge-Check-Scraper
-A webscraper that scrapes every question and answer from the Knowledge Checks of Computer Networking: A Top Down Approach
+A webscraper that utilizes the Selenium library to automate the scraping of every question and answer from the Knowledge Checks of Computer Networking: A Top Down Approach
 
 ## Prerequisites
 
@@ -9,5 +9,6 @@ A webscraper that scrapes every question and answer from the Knowledge Checks of
 ## Installation
 
 1. Clone the repository
-2. Install dependencies: pip install -r requirements.txt
-3. Run the script: python knowledgeScraper.py
+2. Create virtual environment (venv)
+3. Install dependencies using requirements.txt
+4. Run the script
