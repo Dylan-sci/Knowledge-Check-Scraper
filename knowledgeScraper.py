@@ -4,11 +4,10 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.common.by import By
 
 # Set up WebDriver
-# service = Service(ChromeDriverManager().install())
-# driver = webdriver.Chrome(service=service)
-driver = webdriver.Chrome()
+service = Service(ChromeDriverManager().install())
+driver = webdriver.Chrome(service=service)
 
-# Path to save the file in the Documents folder
+# Path to save the file locally
 save_path = 'scraperesults.txt'
 
 
